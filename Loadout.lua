@@ -1,4 +1,4 @@
-_G.slots = {"Zenaiyar", "", "", "", "", ""}
+_G.slots = {"Chloe0fficialKaiOwen", "", "", "", "", ""}
 
 _G.GotoTrade = true
 _G.FarmRestartIn = 3600
